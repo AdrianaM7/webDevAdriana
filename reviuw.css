@@ -1,0 +1,24 @@
+body{
+    background-color:blue;
+    margin: 0;
+    padding: 0;
+    color: black;
+    height: 100vh;
+    border: chartreuse;
+
+}
+#topSection{
+    height: 20vh;
+    width: 100%
+    justify-items: left;
+    font-size: 12mm;
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+#textSection{
+    height: 60vh;
+    width: 100%
+    justify-items: left;
+    font-size: 6mm;
+    font-family: 'Grenze Gotisch', cursive;
+}

@@ -1,0 +1,44 @@
+body{
+    background-color: floralwhite;
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-image: url(image/adriana1.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    border: chartreuse;
+
+}
+#name{ 
+    height: 20vh;
+    width: 50%;
+justify-content: center;
+    color:floralwhite;
+    font-size: 2cm;
+    font-family: 'Grenze Gotisch', cursive; 
+}
+#header{
+    height: 20vh;
+    width: 50%;
+    color:floralwhite;
+    justify-items: left;
+    font-size: 12mm;
+    font-family: 'Grenze Gotisch', cursive;
+}
+#textSection{
+    height: 30vh;
+    width: 100%;
+    color:floralwhite;
+    font-size: large 2cm;
+    font-family: 'Abril Fatface', cursive;
+}
+#navigation{
+    height: 20vh;
+     width: 50%;
+     display: flex;
+     font-size: 2cm;
+     justify-content: space-evenly;
+     font-family: 'Abril Fatface', cursive;
+        
+    } 
